@@ -176,6 +176,11 @@ Voici quelques exemples de conversation avec Poly
 >- Julian: Python 140, Kotlin 370, JS 40, CSS 60, HTML 30; TOTAL 640
 >- Georges-Harrisson: Kotlin 20 (gros du travail sur le devops)
 >- Mirette et Keming: Kotlin 210, JS 90, CSS 70, HTML 70, TOTAL 440  
+### 5.5 Les commits en pourcentage entre les membres du projet
+>- Julian: 58.3%
+>- Georges-Harrisson: 15.5%
+>- Mirette: 11.7%
+>- Keming: 14.6%
 
 ## 6. Conclusion
 Nous nous sommes heurtés à bon nombre de problèmes techniques au cours de ce projet, et nou avons dû reconsidérer beaucoup de nos plans initiaux, mais nous avons fini par surmonter ces obstacles.
